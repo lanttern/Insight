@@ -14,7 +14,7 @@ In this section, prediction models including LogisticRegression and Support Vect
 
 Projections show that by 2030, stroke prevalence will increase by more than 20% over 2012
 
-Total direct medical stroke-related costs are projected to increase 2.5X by 2030, from $71.6 billion in 2012 to $184.1 billion
+Total direct medical stroke-related costs are projected to increase 2.5 times by 2030, from $71.6 billion in 2012 to $184.1 billion
 
 80% of strokes can be prevented
 
