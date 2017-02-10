@@ -20,7 +20,7 @@ Total direct medical stroke-related costs are projected to triple by 2030, from 
 
 58% of Americans don’t know if they are at risk for stroke
 
-#### [Stroke Warning System](www.sws-anti-stroke.org)
+#### [Stroke Warning System](http://www.sws-anti-stroke.org)
 Stroke Warning System is an accessible tool to predict risk of stroke. Health insurance company may use this tool to perform prescreen, save lives and decreased costs.
 
 #### Limitations
