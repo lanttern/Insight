@@ -14,11 +14,11 @@ In this section, prediction models including LogisticRegression and Support Vect
 
 Projections show that by 2030, stroke prevalence will increase by more than 20% over 2012
 
-Total direct medical stroke-related costs are projected to triple by 2030, from $71.6 billion in 2012 to $184.1 billion
+Total direct medical stroke-related costs are projected to increase 2.5X by 2030, from $71.6 billion in 2012 to $184.1 billion
 
 80% of strokes can be prevented
 
-58% of Americans don’t know if they are at risk for stroke
+58% of Americans don’t know if they are at risk
 
 #### [Stroke Warning System](http://www.sws-anti-stroke.org)
 Stroke Warning System (http://www.sws-anti-stroke.org) is an accessible tool to predict risk of stroke. Health insurance company may use this tool to perform prescreen, save lives and decreased costs.
