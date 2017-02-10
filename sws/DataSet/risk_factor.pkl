@@ -1,0 +1,316 @@
+(lp0
+(S'stroke seizur'
+p1
+S'stroke seizure'
+p2
+F4.7675728927962036
+tp3
+a(S'stroke age'
+p4
+g4
+F3.2344982042974415
+tp5
+a(S'atrial fibril'
+p6
+S'atrial fibrillation'
+p7
+F3.0761705519408156
+tp8
+a(S'prior stroke'
+p9
+g9
+F2.8609798596656395
+tp10
+a(S'mother stroke'
+p11
+g11
+F2.838036384159882
+tp12
+a(S'intracerebr hemorrhag'
+p13
+S'intracerebral hemorrhage'
+p14
+F2.7507977472828307
+tp15
+a(S'histori aneurysm'
+p16
+S'aneurysm'
+p17
+F2.6845018357096326
+tp18
+a(S'afib coumadin'
+p19
+S'atrial fibrillation and coumadin'
+p20
+F2.5636135513259224
+tp21
+a(S'subarachnoid hemorrhag'
+p22
+S'subarachnoid hemorrhage'
+p23
+F2.504196381993144
+tp24
+a(S'pneumocysti carinii'
+p25
+S'pneumocystis carinii'
+p26
+F2.336981688956006
+tp27
+a(S'hypertens stroke'
+p28
+S'hypertension'
+p29
+F2.2972148918716897
+tp30
+a(S'high cholesterol'
+p31
+g31
+F2.2883344396052574
+tp32
+a(S'mucin cystadenoma'
+p33
+g33
+F2.2536536122421955
+tp34
+a(S'neurolog diseas'
+p35
+S'neurological disease'
+p36
+F2.2510422035943662
+tp37
+a(S'mellitus dermatomyos'
+p38
+S'mellitus dermatomes'
+p39
+F2.180390626655782
+tp40
+a(S'earli stroke'
+p41
+S'early stroke'
+p42
+F2.072916995102652
+tp43
+a(S'histori stroke'
+p44
+S'history stroke'
+p45
+F2.051982887555334
+tp46
+a(S'hypertens medic'
+p47
+S'hypertens medical condition'
+p48
+F1.7223762136050498
+tp49
+a(S'brother stroke'
+p50
+g50
+F1.6898895148058837
+tp51
+a(S'acetylsalicyl acid'
+p52
+g52
+F1.6607789000782713
+tp53
+a(S'stroke famili'
+p54
+S'stroke family'
+p55
+F1.6312797014572826
+tp56
+a(S'hemorrhag stroke'
+p57
+S'hemorrhage'
+p58
+F1.6059352765935688
+tp59
+a(S'cerebr aneurysm'
+p60
+S'cerebral aneurysm'
+p61
+F1.440102895321053
+tp62
+a(S'hypertens afib'
+p63
+S'hypertension and atrial fibrillation'
+p64
+F1.3222012095458102
+tp65
+a(S'etoh drug'
+p66
+S'alcohol and drug'
+p67
+F1.2405474009354533
+tp68
+a(S'cardiac stent'
+p69
+S'cardiac sentation'
+p70
+F1.2142891454962819
+tp71
+a(S'tob etoh'
+p72
+S'tobacco and alcohol'
+p73
+F1.1424776733390074
+tp74
+a(S'hypertens breast'
+p75
+g75
+F1.134856271913228
+tp76
+a(S'social etoh'
+p77
+S'social alcohol'
+p78
+F1.0955932784986355
+tp79
+a(S'stroke father'
+p80
+g80
+F1.074020485172731
+tp81
+a(S'ischem attack'
+p82
+S'ischemic attack'
+p83
+F1.0526057440894012
+tp84
+a(S'hypertens live'
+p85
+S'hypertension live'
+p86
+F0.9400597041309227
+tp87
+a(S'hypertens year'
+p88
+S'hypertension year'
+p89
+F0.9139535508785944
+tp90
+a(S'brain aneurysm'
+p91
+g91
+F0.8248080004485112
+tp92
+a(S'macular degener'
+p93
+S'macular degeneration'
+p94
+F0.8113539655158043
+tp95
+a(S'hyperlipidemia coronari'
+p96
+S'hyperlipidemia coronary'
+p97
+F0.7879653453794111
+tp98
+a(S'hypertens hyperlipidemia'
+p99
+S'hypertension and hyperlipidemia'
+p100
+F0.7043344730237598
+tp101
+a(S'father stroke'
+p102
+g102
+F0.6662459663570955
+tp103
+a(S'hypertens hepat'
+p104
+S'hypertension and hepat'
+p105
+F0.6521671980344167
+tp106
+a(S'borderlin diabet'
+p107
+S'borderlin diabetes'
+p108
+F0.6482346440132792
+tp109
+a(S'fib coumadin'
+p110
+S'fibrillation and coumadin'
+p111
+F0.6197226355083953
+tp112
+a(S'dermatomyos hypertens'
+p113
+S'dermatomes hypertension'
+p114
+F0.5549742512250881
+tp115
+a(S'mother tobacco'
+p116
+g116
+F0.5056638092884561
+tp117
+a(S'hypertens diabet'
+p118
+S'hypertension diabete'
+p119
+F0.46602539889117284
+tp120
+a(S'intracrani hemorrhag'
+p121
+S' intracranial hemorrhage'
+p122
+F0.4644017271048522
+tp123
+a(S'ago hypertens'
+p124
+S'ago hypertension'
+p125
+F0.44087240016875456
+tp126
+a(S'brain tumor'
+p127
+g127
+F0.43609319327271334
+tp128
+a(S'stroke myocardi'
+p129
+S'stroke myocardial'
+p130
+F0.3856091035153424
+tp131
+a(S'diseas myocardi'
+p132
+S'disease myocardial'
+p133
+F0.3399165956997894
+tp134
+a(S'current smoker'
+p135
+g135
+F0.18863336477311962
+tp136
+a(S'surgeri hypertens'
+p137
+S'surgery and hypertension'
+p138
+F0.173206392183215
+tp139
+a(S'memori problem'
+p140
+S'memory problem'
+p141
+F0.17277096674702574
+tp142
+a(S'hypertens high'
+p143
+S'hypertension high'
+p144
+F0.16935870942431358
+tp145
+a(S'nitric oxid'
+p146
+g146
+F0.16086330785188319
+tp147
+a(S'smoke drink'
+p148
+g148
+F0.15205139796099434
+tp149
+a.

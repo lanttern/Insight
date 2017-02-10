@@ -1,0 +1,320 @@
+(lp0
+S'work construct'
+p1
+aS'arteri stent'
+p2
+aS'uterin cancer'
+p3
+aS'right coronari'
+p4
+aS'bipolar smoker'
+p5
+aS'epilepsi hypoglycemia'
+p6
+aS'daughter grandchildren'
+p7
+aS'drink alcohol'
+p8
+aS'deni unremark'
+p9
+aS'esophag cancer'
+p10
+aS'sister lung'
+p11
+aS'bowel obstruct'
+p12
+aS'use noncontributori'
+p13
+aS'infarct age'
+p14
+aS'continu smoke'
+p15
+aS'alon noncontributori'
+p16
+aS'mg mg'
+p17
+aS'tobacco use'
+p18
+aS'arteri diseas'
+p19
+aS'chronic renal'
+p20
+aS'live local'
+p21
+aS'tobacco deni'
+p22
+aS'abdomin hysterectomi'
+p23
+aS'drink week'
+p24
+aS'failur hypertens'
+p25
+aS'mother heart'
+p26
+aS'month ago'
+p27
+aS'pack day'
+p28
+aS'onc day'
+p29
+aS'myocardi infarct'
+p30
+aS'histori diabet'
+p31
+aS'live spous'
+p32
+aS'wine day'
+p33
+aS'hypertens congest'
+p34
+aS'human immunodefici'
+p35
+aS'histori etoh'
+p36
+aS'drug use'
+p37
+aS'medic histori'
+p38
+aS'good health'
+p39
+aS'aortic insuffici'
+p40
+aS'prostat cancer'
+p41
+aS'gastrointestin bleed'
+p42
+aS'doe smoke'
+p43
+aS'hepat virus'
+p44
+aS'lymphocyt leukemia'
+p45
+aS'sudden death'
+p46
+aS'comput tomographi'
+p47
+aS'wife nc'
+p48
+aS'intraven drug'
+p49
+aS'non contributori'
+p50
+aS'type diabet'
+p51
+aS'deni illicit'
+p52
+aS'matern grandmoth'
+p53
+aS'acut renal'
+p54
+aS'anterior descend'
+p55
+aS'forc vital'
+p56
+aS'cerebrovascular accid'
+p57
+aS'gastric bypass'
+p58
+aS'transurethr resect'
+p59
+aS'drink ethanol'
+p60
+aS'brother die'
+p61
+aS'etoh non'
+p62
+aS'end stage'
+p63
+aS'lower extrem'
+p64
+aS'use past'
+p65
+aS'onc daili'
+p66
+aS'lymph node'
+p67
+aS'chronic pain'
+p68
+aS'wife noncontributori'
+p69
+aS'quit tobacco'
+p70
+aS'mg twice'
+p71
+aS'coronari arteri'
+p72
+aS'skin cancer'
+p73
+aS'type ii'
+p74
+aS'tobacco histori'
+p75
+aS'cardiovert defibril'
+p76
+aS'histori smoke'
+p77
+aS'anemia chronic'
+p78
+aS'pulmonari embol'
+p79
+aS'posit airway'
+p80
+aS'tobacco ethanol'
+p81
+aS'right lower'
+p82
+aS'mg po'
+p83
+aS'crohn diseas'
+p84
+aS'compress fractur'
+p85
+aS'tobacco non'
+p86
+aS'etoh abus'
+p87
+aS'squamous cell'
+p88
+aS'joint diseas'
+p89
+aS'alcohol abus'
+p90
+aS'day year'
+p91
+aS'diseas histori'
+p92
+aS'unit state'
+p93
+aS'die myocardi'
+p94
+aS'dyslipidemia hypertens'
+p95
+aS'ppd yrs'
+p96
+aS'colon cancer'
+p97
+aS'percutan coronari'
+p98
+aS'previous work'
+p99
+aS'pulmonari diseas'
+p100
+aS'histori right'
+p101
+aS'peptic ulcer'
+p102
+aS'sleep apnea'
+p103
+aS'heart failur'
+p104
+aS'tobacco smoke'
+p105
+aS'ethanol abus'
+p106
+aS'time day'
+p107
+aS'diabet mellitus'
+p108
+aS'heart diseas'
+p109
+aS'renal insuffici'
+p110
+aS'lung diseas'
+p111
+aS'diseas left'
+p112
+aS'oxid known'
+p113
+aS'lung carcinoma'
+p114
+aS'tobacco quit'
+p115
+aS'bilater knee'
+p116
+aS'ethanol drink'
+p117
+aS'past surgic'
+p118
+aS'live mother'
+p119
+aS'ethanol use'
+p120
+aS'mitral regurgit'
+p121
+aS'bipolar disord'
+p122
+aS'medic repres'
+p123
+aS'gastroesophag reflux'
+p124
+aS'coronari intervent'
+p125
+aS'cardiac risk'
+p126
+aS'respiratori failur'
+p127
+aS'hernia repair'
+p128
+aS'morbid obes'
+p129
+aS'mg daili'
+p130
+aS'ventral hernia'
+p131
+aS'liver diseas'
+p132
+aS'vein graft'
+p133
+aS'yrs quit'
+p134
+aS'deni tobacco'
+p135
+aS'chronic kidney'
+p136
+aS'breast cancer'
+p137
+aS'surgic histori'
+p138
+aS'cancer famili'
+p139
+aS'current live'
+p140
+aS'retir live'
+p141
+aS'year quit'
+p142
+aS'histori signific'
+p143
+aS'live rehab'
+p144
+aS'prematur coronari'
+p145
+aS'suicid attempt'
+p146
+aS'deni ethanol'
+p147
+aS'status post'
+p148
+aS'esophag varic'
+p149
+aS'chronic anemia'
+p150
+aS'eject fraction'
+p151
+aS'hodgkin diseas'
+p152
+aS'aortic stenosi'
+p153
+aS'dental examin'
+p154
+aS'histori cancer'
+p155
+aS'bone marrow'
+p156
+aS'drug user'
+p157
+aS'staphylococcus aureus'
+p158
+aS'pack year'
+p159
+a.

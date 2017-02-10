@@ -1,0 +1,50 @@
+<!doctype html>
+<html>
+  <head>
+    <!-- header including title, css style and script links-->
+        <title>About SWS</title>
+        <link rel='stylesheet prefetch' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css'>
+        <link rel="stylesheet" type= "text/css" href="{{url_for('static', filename = 'css/about_style.css')}}">
+        <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css">
+        <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+        <script src='http://jbatch.iomash.com/1/jbatch.min.js'></script>
+  </head>
+
+  <body class = "fluid-container">
+  <div class = "row">
+      <!-- nav options including Home, SWS and About buttons-->
+      <div class = "col-md-4 text-center">
+        <button onclick = "location.href = '{{url_for('index')}}';" class = "btn btn-primary btn-lg glyphicon glyphicon-home"><span id = "button"> Home</span></button>
+    </div>
+    <div class = "col-md-4 text-center">
+        <form method = "POST" action = "/about_sws">
+          <button type = "input" class="btn btn-info btn-lg glyphicon glyphicon-eye-open"><span id = "button"> SWS</span></button>
+        </form>
+    </div>
+    <div class = "col-md-4 text-center">
+      <form method = "POST" action = "/about_me">
+        <button type = "input" class = "btn btn-success btn-lg glyphicon glyphicon-info-sign"><span id = "button"> About</span></button>
+      </form>
+    </div>
+  </div>
+  <div class = "content">
+    <!-- contents including 3 sections: Stroke Factors; Stroke Warning System; Limitations-->
+    <div class = "row"><h3><u>Stroke Factors</u></h3>
+      <ul>
+        <li><span id = "num">795,000</span> people in the US have a stroke every year (Leading cause of disabilities)</li>
+        <li><span id = "num">134,000</span> deaths each year (No. 5 cause of death in the US)</li>
+        <li>Projections show that by 2030, stroke prevalence will increase by more than <span id = "num">20%</span> over 2012</li>
+        <li>Total direct medical stroke-related costs are projected to increase 2.5 times by 2030, from <span id = "num">$71.6 billion</span> in 2012 to <span id = "num">$184.1 billion </span></li>
+        <li><span id = "num">80%</span> of strokes can be prevented</li>
+        <li><span id = "num">58%</span> of people in US don’t know if they are at risk for stroke</li>
+      </ul>
+    </div>
+    <div class = "row"><h3><a href = "http://www.sws-anti-stroke.org" target="_blank"><u id = "link">Stroke Warning System</u></a></h3>
+      <div id = "text">Stroke Warning System (www.sws-anti-stroke.org) is an accessible tool to predict risk of stroke. Health insurance company can use this tool to perform prescreen, save lives and decreased lifetime costs for their customers.</div>
+      <center><iframe src="https://docs.google.com/presentation/d/1vLv821bC3HzkDXXAN1iGjvTz9d7k6QeGz7gI4R4Jlu8/embed?start=false&loop=false&delayms=3000" frameborder="0" width="600" height="480" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></center>
+    </div>
+    <div class = "row"><h3><u>Limitations</u></h3></div>
+      <div id = "text">The model used for Stroke Warning System is trained based on patients' past medical, social and family history information from intensive care unit. Therefore, the model is targeted to process the medical terms and medical languages written in English. The plain words may not yield a good prediction performance.</div>
+  </div>
+  </body>
+</html>

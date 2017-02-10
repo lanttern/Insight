@@ -1,0 +1,7 @@
+connect to aws server
+ssh -i Downloads/aws-sws.pem ubuntu@ec2-35-165-171-111.us-west-2.compute.amazonaws.com
+IP address:
+54.203.10.139
+
+pkill gunicorn
+gunicorn app:app -D

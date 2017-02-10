@@ -1,0 +1,604 @@
+(dp0
+S'24'
+p1
+(S'subglottic stenosis symptoms of obstruction started in that initially treated as asthma but diagnosed with subglottic stenosis in she underwent laser excision tracheostomy in underwent procedures and later decannulated in hypothyroidism hypertension fibromyalgia migraine anxiety allergic rhinitis history of mercury poisoning as child tonsillectomy hysterectomy married lives with her roommate who is her power of attorney independent tobacco non smoker alcohol denies illicits denies dad with lung cancer mom with cancer'
+p2
+S'Non-Stroke'
+p3
+tp4
+sS'25'
+p5
+(S'recent atrial fibrillation not on coumadin thyroid nodules biopsy on at hosp hypertension proteinuria restless legs partial splenic rupture multiple falls hearing loss on the lives with her daugther former smoking not much stopped in kids no alcohol does not drive some memory problems at baseline myocardial infarction and strokes no ca'
+p6
+S'Stroke'
+p7
+tp8
+sS'26'
+p9
+(S'st reportedly for artificial insemination on coumadin end stage renal disease on hodgkin disease qmwf hypertension gastroesophageal reflux disease diff colitis asthma migraines staph epidermidis bacteremia she has no history of hyperlipidemia or diabetes mellitus dermatomyositis she lives with her daughter she is retired lab assistant at the red cross habits she quit smoking cigarettes years ago denies etoh use her daughter tells me she smokes marijuana daily but denies cocaine use her daughter has depression and her son has schizophrenia and is deaf'
+p10
+g7
+tp11
+sS'27'
+p12
+(S'past medical history hypertension gastroesophageal reflux disease migraine headaches temporal arteritis social history she is nurse she is divorced and lives with her partner she smoked in the past she has one glass of wine per week she never used drugs family history her mother died at of cardiac disease her father died at of cardiac disease her sister died at of lymphoma her brother died at of cardiac disease she has another brother with cardiac disease one daughter is and has breast cancer another daughter is and has migraine headaches she has helathy year old daughter and healthy year old son'
+p13
+g7
+tp14
+sS'20'
+p15
+(S'pmhx coronary artery disease coronary artery bypass graft surgery emphysema l home o diabetes mellitus dermatomyositis hypertension hypothyroidism gout married retired lives with wife was state worker retired in has chemical exposure in airplane rubber factory social drinker smoking quit yrs ago although with pk year or years history no illicit drugs mother died father died from stroke'
+p16
+g3
+tp17
+sS'21'
+p18
+(S'coronary artery disease vessel told to have stress test but refused several years ago last catheterization about years ago per patient daughter hypertension sick sinus syndrome ppm replaced congestive heart failure last known echo ejection fraction hypothyroidism paced afib not anticoagulated chronic lung nodules moderate severe aortic stenosis russian speaking patient lives alone and is widowed no tobacco ethanol patient has help for cleaning and bathing does some cooking daughter does shopping walks without aid at baseline has frequent visitors daughter health care proxy lives nearby coronary artery disease mother died of appendicitis four brothers died in'
+p19
+g3
+tp20
+sS'22'
+p21
+(S'obesity depression hypothyroidism lower extremity edema biliary colic lives alone in unemployed denies cigs or drugs etoh drinks night noncontributory'
+p22
+g3
+tp23
+sS'23'
+p24
+(S'cardiac risk factors dyslipidemia hypertension cardiac history coronary artery bypass graft surgery vessel coronary artery bypass graft surgery ten years ago at anatomy unknown pacing implantable cardioverter defibrillator none other past medical history unresectable cholangiocarcinoma diagnosed in who has been receiving gemcitabine chemotherapy for this disease with plans for initiation of cisplatin in the near future parotid cancer noted being considered for palliative radiation parotid gland raising the possibility that he had second primary parotid tumor hypertension status post cerebral hemorrhage years ago peptic ulcer disease complicated by gastrointestinal bleeding diverticulitis chronic renal insufficiency hidradentis suppurativa mastoid bone operation at age mr is married and lives with his wife is former smoker quitting years ago he used to smoke pack day for years he denies illicit drug use reports occasional alcohol use he has no children he is retired and used to work in sales he also used to be in the marine corps his mother died from bone cancer at age his father died at age from either myocardial infarction or stroke his maternal grandmother died from liver cancer at an unknown age he has no siblings'
+p25
+g7
+tp26
+sS'28'
+p27
+(S'hypertension was high in the at last pneumocystis carinii pneumonia weeks ago attributed to anxiety hypercholesterolemia pacemaker for skipped beats dr anxiety nonspecific urinary dysfunction as above bilateral deafness bells palsy on the left married lives with wife retired cleaner gardener quit tob former ppd for several years etoh drink weeks infrequent no drugs brother with stroke at age also had coronary artery bypass graft surgery'
+p28
+g7
+tp29
+sS'29'
+p30
+(S'hypertension depression hyperlipidemia cholecystectomy umbilical hernia repair diabetes mellitus dermatomyositis on insulin years retired and lives at home with husband nerve action potential'
+p31
+g7
+tp32
+sS'4'
+p33
+(S'none reported by patient works as cleaner life long tobacco use social etoh no drugs spanish speaking unknown'
+p34
+g7
+tp35
+sS'8'
+p36
+(S'hypertension hyperlipidemia hypothyroidism lived on her own no smoking etoh or illicit drug use no history of strokes'
+p37
+g7
+tp38
+sS'59'
+p39
+(S'multiple myocardial infarctions hypertension bladder cancer malignant melanoma ethanol abuse appendectomy cholecystectomy medications inderal mg cardura mg allergies nitric oxide known drug allergies family history noncontributory'
+p40
+g7
+tp41
+sS'58'
+p42
+(S'pmhx migraines no smoke no etoh nerve action potential'
+p43
+g7
+tp44
+sS'55'
+p45
+(S'insulin dependent diabetes mellitus hypertension hysterectomy high cholesterol hypothyroidism chronic obstructive pulmonary disease deep vein thrombosis left inferior vena cava filter polypectomy duodenal arteriovenous malformation diverticulosis chronic anemia lives with son heavy tobacco use non contributory'
+p46
+g7
+tp47
+sS'54'
+p48
+(S'aortic stenosis with aortic valve replacement with bioprosthetic pericardial valve coronary artery bypass graft times two with saphenous vein graft to left anterior descending and otitis media postoperative atrial fibrillation asthma diabetes mellitus gout hyperlipidemia hypothyroidism he lives at home until he was independent in his activities of daily living and iadls but family had noted decline in his mental status for the last few weeks prior to admission no history of smoking alcohol or drug abuse in rehab since non contributory'
+p49
+g3
+tp50
+sS'57'
+p51
+(S'transient ischemic attack which was diagnosed in diabetes mellitus type ii pacemaker placement for conductive defect that was in she is status post total abdominal hysterectomy and bilateral salpingo oophorectomy in status post appendectomy allergies there is question of codeine allergy medications lipitor mg day plavix mg day primatene mist one puff several times day she does smoke one to two packs per day times years she does not drink alcohol or use intravenous drugs'
+p52
+g7
+tp53
+sS'56'
+p54
+(S'alzeimers disease hypertension gastroesophageal reflux disease diabetes mellitus dermatomyositis hyperlipidemia headaches wife states pt is not smoker drinker or drug user he lives in non contributory'
+p55
+g7
+tp56
+sS'51'
+p57
+(S'hyperchol lung carcinoma wedge resection cerebrovascular accident visual deficit gastritis endocarditis aortic aneurysm repair bilateral cataracts gastrointestinal bleed widowed lives in prior pack year smoking history no etoh diabetes mellitus dermatomyositis coronary artery disease'
+p58
+g3
+tp59
+sS'50'
+p60
+(S'is none medications the only medication she takes is multivitamin allergies to penicillin which causes rash family history she has family history of maternal grandmother who died of brain aneurysm'
+p61
+g7
+tp62
+sS'53'
+p63
+(S'hypertension gastroesophageal reflux disease works at the bar no other details at present unknown'
+p64
+g7
+tp65
+sS'52'
+p66
+(S'prostate cancer status post radiotherapy used in cancer treatment in paroxysmal atrial fibrillation allergies no known drug allergies drugs on transfer levofloxacin mg solu medrol mg intravenous hours digoxin mg zantac aspirin mg po metoprolol mg po heparin units subcutaneous medications antithrombin home none'
+p67
+g3
+tp68
+sS'88'
+p69
+(S'history of syncope with reveal monitor implanted etoh noncontributory'
+p70
+g3
+tp71
+sS'89'
+p72
+(S'type two diabetes mellitus formerly known as non insulin dependent diabetes mellitus x years diabetes mellitus dermatomyositis associated retinopathy nephropathy and neuropathy coronary artery disease end stage renal disease hypertension hypercholesterolemia peripheral vascular disease past surgical history open reduction internal fixation hip cardiac resynchronization therapy evac hematoma nephrostomy tube for urinoma coronary artery bypass graft surgery right female distal bypass below the knee amputation lue arteriovenous fistula social history significant for distant use of tobacco he quit in no history of alcohol use or intravenous drug abuse his wife died of bone cancer he has children all adults with an eldest son with history of diabetes he has supportive family in the area he currently lives alone noncontributary'
+p73
+g3
+tp74
+sS'82'
+p75
+(S'diabetes mellitus dermatomyositis hypertension cerebellar strokes hemorrage in past blood glucose stroke menieres disease vertigo history of hearing loss incarcerated drug etoh tobacco history not listed noncontributory'
+p76
+g7
+tp77
+sS'83'
+p78
+(S'angina hypertension hypercholesterolemia arthritis coronary artery disease with three vessel status post percutaneous transluminal coronary angioplasty to the obtuse marginal in totally occluded left anterior descending hypothyroidism medications antithrombin home procardia mg day atenolol mg day isosorbide mg day aspirin mg day nitrostat as necessary gemfibrozil mg day vitamins synthroid mcg day prilosec mg day accupril day ferrous sulfate day allergies none family history noncontributory'
+p79
+g7
+tp80
+sS'80'
+p81
+(S'pt unable unwilling to say per summary spondilitis numbness in fingers hypertension obesity pulm artery hytertension lower extremities edema year history of smoking stopped year ago no drinking reported no other drug use unknown was raised at care two daughters in good health'
+p82
+g3
+tp83
+sS'81'
+p84
+(S'coronary artery disease osteoarthritis cerebrovascular accident cabgx appendectomy lives with husband grown children in nerve action potential'
+p85
+g7
+tp86
+sS'86'
+p87
+(S'past medical history hypertension hepatic lipase coronary artery disease congestive heart failure with multivalvular disease including medical representative details unknown to me at this time ppm hypothyroidism chronic utis pessary platelet activating factor on amiodarone and on chronic warfarin gallstones retired has daughter who is hcp noncontributory'
+p88
+g7
+tp89
+sS'87'
+p90
+(S'none married lives with wife in marathon runner no tobacco alcohol drug use retired from work in manufacturing no family history of stroke or seizure'
+p91
+g7
+tp92
+sS'84'
+p93
+(S'chronic urticaria and angioedemea since section done on for failure to progress after hour labor asthma seasonal allergies status post cholecystectomy lives with father and siblings and has month old son are separated and there appears to be some tension between mother and children as mother has psychiatric illness per father he and patient have also recently had tumultuous relationship and are currently not on speaking terms reportedly infrequent alcohol or tobacco use and no intravenous drugs father with seasonal allergies otherwise no history of related urticaria angioedema'
+p94
+g3
+tp95
+sS'85'
+p96
+(S'coronary artery disease htn hyperlipidemia diabetes mellitus neuropathy peripheral artery disease carotid stenosis retired computer operator rare ethanol quit pack year hx nerve action potential'
+p97
+g3
+tp98
+sS'3'
+p99
+(S'facial acne vs folliculitis methicillin resistant staphylococcus aureus abscess on right buttocks anal fistula fistulectomy human immunodeficiency virus acquired immune deficiency syndrome diagnosed on recent admission when he was treated presumptively for pneumocystis carinii pneumonia occupation teaches musical theatre at conservatory for music tobacco none alcohol social use none recently illicit drugs denies home lives with his husband have been together for years monogamous relationship and his mother noncontributory'
+p100
+g3
+tp101
+sS'7'
+p102
+(S'afib on coumadin congestive heart failure hypertension hypothyroidism bilateral knee replacements right hip replacement excision of eye squamous cell carcinoma porcine valve social history as per daughter she was functional and generally independent no smoking history occasional alcohol use no illicit drug use unknown'
+p103
+g7
+tp104
+sS'100'
+p105
+(S'transient ischemic attack arm numbness weakness confusion hospitalization hypertension hepatic lipase peripheral artery disease left open endarterectomy of ext iliac common femoral and profunda femoris and angioplastiy of left superficial femoral artery stenting on ischemic bowel resection of segm of sm bowel hospitalization acute renal failure anasarca alb fevers pneumonia tonsillectomy carcinoembryonic antigen widowed has children used to work as truck driver but has not since recent hospitalizations independent in activities of daily living and iadls tobacco ppd years etoh denied drug use denied obtained from family history of early strokes seizures central nervous system tumors demyelinating conditions autoimmune conditions procoagulant conditions coronary artery disease'
+p106
+g3
+tp107
+sS'39'
+p108
+(S'obstructive sleep apnea hypertension dmii hyperlipidemia depression benign prostatic hyperplasia aka benign prostatic hypertrophy retired works at to pass time no sig tobacco etoh drugs lives with wife has kids none significant for strokes myocardial infarction reported'
+p109
+g7
+tp110
+sS'38'
+p111
+(S'coronary artery disease coronary artery bypass graft surgery x patient controlled analgesia with stent to d endotracheal tube min protocol mets left ventricle dysfunction in the absence of angina or ischemic electrocardiogram congestive heart failure ejection fraction echo dilated refractory anemia moderately dilated severe global left ventricle hypok residual volume sys fxn borderline normal trace aortic regurgitation medical representative tricuspid regurgitation no mass vegetation visualized hypertension hypercholesterolemia type two diabetes mellitus formerly known as non insulin dependent diabetes mellitus nephropathy and retinopathy hgba c atrial fibrillation rapid ventricular rate in post op period cardioversion anemia hematocrit iron studies low iron total iron binding capacity ferritin nl vit b folate wnl chronic renal insufficiency baseline creatinine gastroesophageal reflux disease ccy hernia repair history of alloantibody with hemolytic reaction to blood transfusions requiring negative blood automated implantable cardioverter defibrillator afib lives at quit smoking years ago etoh occasional daughter is involved with pt care noncontributory'
+p112
+g3
+tp113
+sS'33'
+p114
+(S'initially dx follicular lymphoma a b cycles of cyclophosphamide doxorubicin vincristine prednisone and then progressed to dlbcl underwent several cycles of chemo and radiation but continued to progress cycles of auto stem cell transplant with progression of disease then etoposide cisplatin cytarabine methylprednisolone and non ablative allo stem cell transplant matched sibling then rec gemzar navelbine prednisone and radiotherapy used in cancer treatment with continued progression also has rec donor lymphocyte infusion with continued progression anxiety on klonopin osteoarthritis knee arthoscopic surgery gastric lymphoma ulcer on esophagogastroduodenoscopy not present in she is retail store manager currently not working married with sons age and she smokes about cigarettes per day formerly drank alcohol occasionally and has not been drinking recently denies drug use very supportive family married with grown sons and used to be photographer and worked for but stopped working year ago sister with breast cancer'
+p115
+g3
+tp116
+sS'32'
+p117
+(S'artificial insemination bicuspid arteriovenous chol works as software engineer no smoker rare etoh lives with wife and children nerve action potential'
+p118
+g3
+tp119
+sS'31'
+p120
+(S'atrial fibrillation pacemaker placement previously on coumadin discontinued hemorrhagic cerebrovascular accident left ventricle systolic dysfunction per echo with ejection fraction medical representative and tricuspid regurgitation diabetes mellitus dermatomyositis type last hemoglobin a c on hypertension hypercholesterolemia chronic renal insufficiency with baseline creatinine mild dementia peptic ulcer disease history of cerebrovascular accident negative colonoscopy negative esophagogastroduodenoscopy multiple pulmonary nodules found on chest computed tomography under investigation planned for bronchoscopy with bronchoalveolar lavage on differential includes vasculitis malignancy or infection she currently lives with her daughter and goes to day care days week no tobacco no etoh she ambulates with walker at baseline noncontributory'
+p121
+g3
+tp122
+sS'30'
+p123
+(S'past medical history hypertension knee replacement social history lives with husband non family history no neurological illness'
+p124
+g7
+tp125
+sS'37'
+p126
+(S'coronary artery disease with past angioplasty x congestive heart failure paroxysmal atrial fibrillation aortic valve replacement and mitral valve repair for rheumatic disease chronic renal insufficiency and acute renal failure paroxysmal atrial fibrillation retroperitoneal bleed on coumadin chronic anemia chronic obstructive pulmonary disease rheumatoid arthritis lacunar infarct cortical atrophy facial droop peptic ulcer disease nsaids diverticulosis short bowel syndrome neuropathy recurrent urinary tract infection pyelonephritis caused by serratia and klebsiella colectomy for bowel ischemia ileostomy for recurrent lower gastrointestinal bleeding bilateral total knee replacement recurrent infection of the right knee incision and drainage for infection with klebsiella proteus coli degenerative disc diasease appendectomy cholecystectomy hysterectomy tracheostomy home health services living with daughter father and brother died of myocardial infarction'
+p127
+g3
+tp128
+sS'36'
+p129
+(S'type ii diabetes mellitus dermatomyositis hypertension cataracts cataract surgery married and lives with wife tobacco no ethanol father died in from congestive heart failure'
+p130
+g3
+tp131
+sS'35'
+p132
+(S'prostate cancer prostatectomy uncontrolled hypertension lives with his brother reports drinking vodka daily unable to obtain of any other illicit or intravenous drug use nerve action potential'
+p133
+g7
+tp134
+sS'34'
+p135
+(S'hepatitis virus and autoimmune hepatitis leading to cirrhosis encephalopathy ascites lupus erythematosus edema nonocclusive portal vein thrombosis for which she takes coumadin grade varices in the lower third of the esophagus left breast cancer dx mastectomy and reconstruction with local recurrence excision and radiotherapy used in cancer treatment without recurrence on femara type diabetes mellitus on insulin years last a c hypertension chronic renal failure baseline creatinine coronary artery disease cath showed left anterior descending mild diffuse dz history of sarcoid osteopenia with borderline osteoporosis in spine and hip gastroesophageal reflux disease thickened rectal mucosal folds consistent with proctitis diagnosed on last colonoscopy reactive airway disease with seasonal symptoms divorced lives alone in in daughter and grandson live nearby in daughter works at and has been involved in care although patient lives independently and is competent in all activities of daily living and iadls she denies tobacco alcohol or illicit drug use sister with type diabetes and breast cancer half sister with breast cancer'
+p136
+g3
+tp137
+sS'60'
+p138
+(S'hypertension repair of right leg laceration in between jobs worked as truck driver as recently as month ago lives at home with wife denies any history of tobacco alcohol or drug use denies all including stroke'
+p139
+g7
+tp140
+sS'61'
+p141
+(S'hypertension psoriasis bilateral knee reconstruction surgery patient lives with his wife is currently unemployed and worked as corporate lawyer has son in the national guard in boot camp currently son who is sophomore in college and daughter who is senior in high school no tobacco use drinks few glasses of wine in weeks no illicit drug use in many years he has been under more stress than usual brother with tias in s father hemorrhagic stroke at maternal aunt with cerebral aneurysm found post mortem strong family history of hypertension in both parents and brother brother also had triple coronary artery bypass graft surgery and type ii diabetes'
+p142
+g7
+tp143
+sS'62'
+p144
+(S'past medical history paroxysmal atrial fibrillation hepatitis gastroesophageal reflux disease hypertension dmii married works as tailor alcohol about once per month no tobacco use sister with coronary artery disease coronary artery bypass graft surgery brother with coronary artery disease brother with pancreatitis'
+p145
+g3
+tp146
+sS'63'
+p147
+(S'benign prostatic hyperplasia aka benign prostatic hypertrophy thyroid disease hypothyroidism coronary artery disease ppm for arteriovenous block benign prostatic hyperplasia aka benign prostatic hypertrophy colostomy and reversal in for sigmoid volvulus meniere recurrent episodes of dizziness not known to have falls irritable bowel syndrome osteoporosis recent mini mental state examination executive dysfunction in cognitive testing lives independently retired executive currently writing book noncontributory'
+p148
+g7
+tp149
+sS'64'
+p150
+(S'hypertension allergies penicillin and haldol'
+p151
+g7
+tp152
+sS'65'
+p153
+(S'diabetes mellitus dermatomyositis recently dx with hospital stay at for hyperglycemia scrotal and pedal edema dx bilat epididymitis hypertension recently dx diabetic and immunoglobulin nephropathy nephrotic range proteinuria with edema renal bx severe diabetes mellitus dermatomyositis immunoglobulin nephropathy anemia of chronic dz recent esophagogastroduodenoscopy with mild gastropathy microscope or endoscope nl lives with wife and children currently does not work denies any tobacco etoh or illicit drug use immigrated to ultrasonogram yrs ago no known family history of coronary artery disease diabetes mellitus dermatomyositis cerebrovascular accident or carcinoma'
+p154
+g3
+tp155
+sS'66'
+p156
+(S'her past medical history is significant for her colon cancer she has seizure disorder due to encephalitis she has methicillin resistant staphylococcus aureus urinary tract infections in the past medications her medications on admission were neurontin mg and then mg hours of sleep ciprofloxacin as necessary allergies she had no known drug allergies'
+p157
+g3
+tp158
+sS'67'
+p159
+(S'aortic stenosis valve area cm in type diabetes right carotid stenosis chronic renal insufficiency cerebrovascular accident hypothyroidism tuberculosis laryngeal cancer chemo in lives alone quit drinking and smoking in the early s no drugs significant for diabetes'
+p160
+g7
+tp161
+sS'68'
+p162
+(S'grade iii infiltrating ductal carcinoma mastectomy hepatocellular carcinoma right hepatic lobectomy renal cell ca radical right nephrectomy hemachromatosis intermittently has phlebotomy type diabetes diagnosed in history of transient ischemic attack in and takes aspirin daily apparently has been on coumadin in the past history of ruptured diverticular disease history of mild chronic obstructive pulmonary disease hypertension status post motor vehicle accident in the patient is married and lives with wife has three adult children he is retired auto mechanic he is on diabetic diet occasional alcohol history of tobacco he smoked packs per day for years but quit in occasional cigar no history of intravenous drug use tattoos or piercing the patient did have blood transfusion years ago significant for sister with hemachromatosis his mother died of neck cancer father died of lung cancer his brother had stroke'
+p163
+g7
+tp164
+sS'69'
+p165
+(S'afib only on acetylsalicylic acid not on coumadin been off for at least month hypertension diabetes mellitus dermatomyositis on insulin hyperlipidemia coronary artery disease had stent at least year ago cholecystectomy year prior lives with his wife has an adult son quit smoking about years ago unclear how long smoking history occasional etoh no drugs contact info wife and son father had stroke in his s also with parkinson disease'
+p166
+g7
+tp167
+sS'2'
+p168
+(S'atrial fibrillation on coumadin hypertension barrett esophagitis in right hemicolectomy in for large edematous polyp hemorrhoids with guaiac positive stool prostate cancer status post radiation therapy years ago review of systems there were no recent illnesses per family allergies nitric oxide known drug allergies medications on admission norvasc atenolol protonix cozaar the patient smokes four cigars week he does not drink alcohol or use drugs he is married and owns construction firm'
+p169
+g7
+tp170
+sS'6'
+p171
+(S'alzheimer dementia chronic obstructive pulmonary disease intermittent fib left mastectomy hypertension hypercholesterolemia lives in nursing home non contributory'
+p172
+g7
+tp173
+sS'99'
+p174
+(S'hypertension insulin dependent diabetes mellitus peripheral vascular disease anemia hepatic lipase afib not on anticoagulation since below the knee amputation below the knee amputation fall lives with daughter who works at no tobacco or ethanol negative for stroke seizure migraine'
+p175
+g7
+tp176
+sS'98'
+p177
+(S'type diabetes diagnosed at age she is usually managed on an insulin pump hashimoto thyroiditis gastroparesis history of bulemia anxiety on clonazepam history of diabetic foot ulcer she is married and lives with her husband she has month old child she denies any alcohol tobacco or other drugs non contributory'
+p178
+g3
+tp179
+sS'91'
+p180
+(S'hyperlipidemia hypertension hypothyroidism history of cellulitis of leg dementia bipolar illness history of hernia repair constipation osteoporosis compression fx seen on xrays abdominal aortic aneurysm repair lives in dementia unit at house daughter actively involved in her care formerly worked as dental assistant no current smoking or etoh son was committed suicide daughter deceased from pancreatic cancer one other daughter currently alive and well'
+p181
+g3
+tp182
+sS'90'
+p183
+(S'past medical history ethanol dependence sober x yrs chronic obstructive pulmonary disease no record of pulmonary function test no treatments for chronic obstructive pulmonary disease in past hypothyroidism chronic anxiety disorder bipolar disorder osteoarthritis avascular necrosis of right hip anemia past surgical history none social history pack year smoking currently smoking ethanol dependence quit yrs ago currently not working previously worked doing farm labor lives alone in mother died at of lung carcinoma father died at of sudden death she was healthy children'
+p184
+g3
+tp185
+sS'93'
+p186
+(S'coronary artery disease coronary artery bypass graft surgery fib on coumadin hypertension hyperlipidemia hep diabetes mellitus dermatomyositis benign prostatic hyperplasia aka benign prostatic hypertrophy splenectomy secondary to trauma gastrointestinal bleed duodenal ulcer cholecystectomy ppm placement per chart lives with wife at home used to be emplowed as truck driver habits no etoh no tob no drugs father died of liver carcinoma at mother died in s complications of hypertension'
+p187
+g7
+tp188
+sS'92'
+p189
+(S'pmhx hypertension ischemic colitis no sx social history tobacco pack year or years hx ppd yrs no etoh no drugs works as nurse aid at nursing home nc'
+p190
+g7
+tp191
+sS'95'
+p192
+(S'anxiety insomnia sciatica spinal stenosis sacral laminectomy years ago appendectomy salpingolysis breast atypical hyperplasia breast implant tobacco currently smokes cigarettes day pack per day history for years attempting to quit alcohol drink weekly denies illicit drug use father chronic obstructive pulmonary disease mother coronary artery disease breast carcinoma'
+p193
+g3
+tp194
+sS'94'
+p195
+(S'past medical history diabetes mellitus dermatomyositis type ii insulin dependent glaucoma gastroesophageal reflux disease bleeding peptic ulcer hx of methicillin resistant staphylococcus aureus bacteremia osteomyelitis of left foot due to poorly healing wound and hypothyroidism legally blind surgical history prior right total knee replacement complicated by infection left total knee arthoplasty left carotid endarterectomy right total shoulder replacement peripheral vascular disease right acanthamoeba keratitis popliteal to dorsalis pedis bypass graft foot debridement he is retired police officer currently lives with his wife quit smoking years ago smoked from age about ppd no ethanol x year there is no family history of premature coronary artery disease or sudden death'
+p196
+g3
+tp197
+sS'97'
+p198
+(S'high blood pressure on prison intake in but the next day started coming down on was iodine and was lost to follow up in prison no known hyperlipidemia or diabetes mellitus dermatomyositis presumed drug abuse but denied this on prison intake prior positive packs per day chest ray negative no surgeries in federal prison for drug violation since was to be sentenced today originally from previously lived in currently in corrections facility former smoker but reportedly quit months prior to going to prison denied drug use to prison officials but reportedly has history of this unknown'
+p199
+g7
+tp200
+sS'96'
+p201
+(S'hypertension congestive heart failure and pulmonary hypertension atrial fibrillation diabetes mellitus dermatomyositis chronic kidney disease gout question of prostate calcium with mets to the bone ascitis in abdominal ultrasonogram in lives with his son on his own no cane last week left home to drive to the grocery store he purchased the groceries and returned home without any navigation problems also visited relative who had had stroke and was on rehab on his own without difficulties tobacco ethanol drugs he worked as mechanic for airplanes history of early strokes seizures central nervous system tumors demyelinating conditions autoimmune conditions procoagulant conditions coronary artery disease'
+p202
+g7
+tp203
+sS'11'
+p204
+(S'migraines she lives with her son she works as floor manager for she smokes cigarettes per day she has small amt of alcohol at nigh she does not use drugs nerve action potential'
+p205
+g7
+tp206
+sS'10'
+p207
+(S'stage iii non small cell carcinoma status post chemotherapy status post radiation therapy status post right pneumonectomy five to six years ago left main stem stent for bronchopleural fistula and stenosis in chronic obstructive pulmonary disease emphysema osteoporosis anxiety depression status post appendectomy status post right oophorectomy allergies no known drug allergies medications on admission tobramycin oxycontin flovent albuterol prozac trazodone percocet as necessary'
+p208
+g3
+tp209
+sS'13'
+p210
+(S'human immunodeficiency virus most recent cd vl copies ml kaposi sarcoma pneumocystis carinii pneumonia with cd count of at that time response to clinda primaquin subsequently restarted on bactrim prophylaxis which he has tolerated well epstein barr virus viremia copies ml and recent hairy leukoplakia herpes simplex virus pharyngitis dilated cardiomyopathy now cardiac transplant cyclosporin levels kept in the low mid s low dose prednisone no recent pulses chemical hepatitis in drug drug interactions between caspofungin and cyclosporin hepatitis virus infection previously hepatitis virus and hepatitis virus naive chemical pancreatitis pancytopenia since transplant negative workups with negative bone marrow biopsy several last packed red blood cells transfusion was weeks ago fever uncertain etiology drug rash secondary to clindamycin status post cardiac transplant for endstage cardiomyopathy from daunarubicin used to treat his kaposi sarcoma gout hypertension chronic renal insufficiency right upper lobe pneumonia no tobacco alcohol or intravenous drug use has cat no sick contacts or recent new sexual contacts sushi or shellfish non contributory'
+p211
+g3
+tp212
+sS'12'
+p213
+(S'appendectomy tonsillectomy hypercholesteremia costochondritis low back pain denies any tobacco pack of beer year nerve action potential'
+p214
+g7
+tp215
+sS'15'
+p216
+(S'hypertension active and oriented per pneumocystis carinii pneumonia unknown'
+p217
+g7
+tp218
+sS'14'
+p219
+(S'prif of left distal femur fracture with plate require person lift followed by ortho clinic open reduction internal fixation of right intreathrochanteric hip fracture osteoporosis cerebrovascular accident in hypertension dementia diabetes mellitus diet controlled meningioma history of falls cataracts dementia diabetes mellitus dermatomyositis hypertension cerebrovascular accident tob deniesetoh denies lives at'
+p220
+g7
+tp221
+sS'17'
+p222
+(S'etoh abuse depression married resides with husband'
+p223
+g3
+tp224
+sS'16'
+p225
+(S'denies lives in apartment on originally from'
+p226
+g3
+tp227
+sS'19'
+p228
+(S'end stage renal disease secondary to systemic lupus erythematosus on hemodialysis since dementia hypertension anemia depression hyperthyroidism coronary artery disease status post myocardial infarction in and catheterization in showed three vessel disease with percutaneous transluminal coronary angioplasty stent to the left anterior descending status post cerebrovascular accident status post deep vein thrombosis ejection fraction of on echocardiogram in osteoarthritis allergies the patient is allergic to non steroidal anti inflammatory drugs aspirin magnesium laxatives and plaquenil medications on admission levoxyl mcg nephrocaps one tablet tums mg coumadin mg aricept mg atenolol mg tylenol as necessary calcitonin spray one alternating nostrils colace effexor mg lisinopril mg sorbitol mg as necessary ensure supplements'
+p229
+g3
+tp230
+sS'18'
+p231
+(S'hypertension renal cancer nephrectomy by dr at years ago chemotherapy last dose months ago follwed by dr at has portacath over the right chest bladder cancer vs spread of renal cancer unclear recent bronchitis and fractures endometriosis with small bowel obstructions requiring surgery last obstruction yrs ago degenerative joint disease lives at home married one son estranged never smoked one glass of wine with dinner no drugs no alternative medicine no aids to walk using visiting nurse fracture bronchitis retired head teller and book keeper at bank director of volunteers at library not currently working lives in ma husband unable to answer has twin brother who is obese and another brother and sister'
+p232
+g7
+tp233
+sS'48'
+p234
+(S'hyperlipidemia bilateral hand surgery vibrio sepsis in requiring intubation multiple pressors with multiorgan failure liver kidney necessitating hodgkin disease complicated by abdominal compartment syndrome surgery pupura fulminans on bilateral arms and distal digit necrosis from pressors married lives in with wife and three daughters tobacco occassional etoh no drug use works in finances for clinical research department grandfather with coronary artery disease'
+p235
+g3
+tp236
+sS'49'
+p237
+(S'none family reports patient would not get physical or see physican but generally was in excellent health married with grown children and grandchildren not known'
+p238
+g7
+tp239
+sS'46'
+p240
+(S'uncontrolled hypertension raynaud phenomenon medications on admission multivitamin multiple herbal medications including coenzyme and horse chestnut claritin aspirin allergies she has possible allergy to morphine she also reports multiple sensitivities to multiple chemicals and medications which she cannot clarify further she lives alone she denied tobacco or alcohol use she works for an insurance company'
+p241
+g7
+tp242
+sS'47'
+p243
+(S'seizures mal seizures for yrs last years ago associated with hypokalemia always pneumocystis carinii pneumonia recently discussing terminating dilantin use breast carcinoma left mastectomy dementia alert and oriented x at baseline lives in assisted living facility hip fx open reduction internal fixation carotid stenosis dementia hyponatremia hypokalemia degenerative joint disease in spine tmj osteoporosis htn lacunar infarct lupus erythematosus deep vein thrombosis lives in nursing home no ethanol tobacco she is right handed unknown'
+p244
+g7
+tp245
+sS'44'
+p246
+(S'neurology migraine headache tobacco years ppd occasional ethanol lives in has son and daughter divorced unknown'
+p247
+g7
+tp248
+sS'45'
+p249
+(S'hypertension diabetes mellitus dermatomyositis psoriatic arthritis alcoholism in remote past liver dysfunction thrombocytopenia lives with wife at home retired from retail independent in activities of daily living did not require walker for ambulation denied tobacco etoh and drug use currently central nervous system bleeds brain aneurisms father'
+p250
+g7
+tp251
+sS'42'
+p252
+(S'hyperlipidemia history of deep vein thrombosis history of osteomyelitis status post right tibia fracture chronic back pain degenerative joint disease status post appendectomy tobacco use allergies penicillin medications antithrombin time of transfer decadron protonix aspirin'
+p253
+g7
+tp254
+sS'43'
+p255
+(S'episode of syncope aprox one month ago thought to be secondary to arythmia works as bridge inspector social ethanol no tobacco nerve action potential'
+p256
+g7
+tp257
+sS'40'
+p258
+(S'gastroesophageal reflux disease surgery for ankle fracures total hip replacement yrs ago colonoscopy yrs ago reportedly normal lives alone in retirement community wife died denies tobacco etoh non contributory'
+p259
+g3
+tp260
+sS'41'
+p261
+(S'hypertension poorly controlled per family stopped taking meds years ago and would not go to the doctor placement transient ischemic attack years ago unclear characterization no residual deficits frequent nosebleeds lives with husband not been to doctor in several years unknown'
+p262
+g7
+tp263
+sS'1'
+p264
+(S'paroxysmal atrial fibrillation asthma benign prostatic hyperplasia aka benign prostatic hypertrophy pt is from and is here visiting his daughter is virologist md phd no history of tobacco alcohol illicit drug use no history of strokes but there is history of coronary artery disease and myocardial infarction'
+p265
+g7
+tp266
+sS'5'
+p267
+(S'history of diverticula in the sigmoid colon on colonoscopy in chronic obstructive pulmonary disease st aortic valve replacement in hypertension noninsulin dependent diabetes mellitus chronic atrial fibrillation coronary artery disease congestive heart failure no echocardiogram available status post appendectomy status post left oophorectomy status post partial thyroidectomy medications on admission coumadin mg lipitor mg glyburide mg glucophage mg lopressor mg serevent two puffs flovent two puffs combivent two puffs captopril mg digoxin mg lasix mg allergies penicillin rash the patient is independent and lives alone with daughter in the area she has pack year history of smoking quit several years ago and denies alcohol use'
+p268
+g3
+tp269
+sS'9'
+p270
+(S'cardiac risk factors dyslipidemia cardiac history platelet activating factor peripheral vascular insufficiency ablation she is divorced and lives alone she has two daughters and four grandchildren she does not smoke and drinks alcohol on rare occasion she works as medical collector her daughter will accompany her to the procedure no family history of early myocardial infarction otherwise non contributory'
+p271
+g3
+tp272
+sS'77'
+p273
+(S'methicillin resistant staphylococcus aureus lung abscess in treatment with linezolid asthma fev forced vital capacity fev forced vital capacity pred in multiple hospitalizations last hospitalization followed by pulmonologist dr home oxygen as necessary hypertension paroxsymal atrial fibrillation history of pleural effusion cocaine abuse chronic pain admitted for syncope in setting of cocaine use ruled out for myocardial infarction laminectomy years ago respiratory syncytial virus infection lives with wife used to work with horse trainer but has not worked for years secondary to health patient reports last using cocaine days prior to this admission non smoker no alcohol denies ivda denies coronary artery disease carcinoma diabetes mellitus dermatomyositis brother with lymphoma'
+p274
+g3
+tp275
+sS'76'
+p276
+(S'hypertension total abdominal hysterectomy widowed with children lives with daughter who is mentally retarded no history of etoh or tobacco walks daily brother died at age of cerebral hemorrhage nd brother died at of myocardial infarction father died early s of stroke myocardial infarction sister died of heart disease mother with'
+p277
+g7
+tp278
+sS'75'
+p279
+(S'diabetes mellitus dermatomyositis non insulin dependent diabetes mellitus atrial fibrillation hypothyroidism chronic obstructive pulmonary disease lives alone has kids daughter is hcp unknown'
+p280
+g7
+tp281
+sS'74'
+p282
+(S'cardiac risk factors hypertension cardiac history coronary artery bypass graft surgery percutaneous coronary interventions pacing implantable cardioverter defibrillator other past medical history end stage renal disease on hodgkin disease mwf kidney center dr arteriovenous fistula anemia of chronic disease gastroesophageal reflux disease inguinal hernia congestive heart failure lives with his wife in independent activities of daily living tobacco history quit tobacco in the s ethanol denies illicit drugs denies unable to obtain history of early myocardial infarction arrhythmia cardiomyopathies or sudden cardiac death'
+p283
+g3
+tp284
+sS'73'
+p285
+(S'migraines in childhood lives wife in ma works as sales clerk in nordstroms habits tobacco ppd x years etoh week drug use denies herbal non prescription drug use supplement including caffeine jacked cerebrovascular accident fa and paternal gfa in s calcium mother seizure none connective tissue none autoimmune or inflammator os none'
+p286
+g7
+tp287
+sS'72'
+p288
+(S'hypertension prior diagnosis of chronic systolic congestive heart failure ejection fraction septal hk but most recent echo with preserved ejection fraction nsvt orthostatic hypotension type two diabetes mellitus formerly known as non insulin dependent diabetes mellitus etoh abuse lung carcinoma radiotherapy used in cancer treatment chemo deep vein thrombosis cerebrovascular accident x no residual deficits except slowed speech chronic low back pain adrenal insufficiency ccy depression anxiety divorced has son who lives in and daughter in they visit weekly has four grandchildren former smoker pack yrs former etoh abuse no etoh or drugs currently lives at since ambulates with walker father died of myocardial infarction in s'
+p289
+g3
+tp290
+sS'71'
+p291
+(S'parkinson disease dementia gastroesophageal reflux disease history of peptic ulcer disease gastroparesis irritable bowel syndrome with constipation predominance lactose intolerance hemorrhoids hypertension hyperlipidemia hypothyroidism anemia on aranesp diabetes mellitus right breast cancer in spinal stenosis depression osteoporosis urinary retention overflow incontinence social history lives at uses wheelchair no longer walking feeds self transfers to toilet on own prior approximate pack year smoking history but not currentl no ethanol daughter very involved in her care though lives in daughter cell is and office number in is pt is do not resuscitate do not intubate sister with diabetes mellitus dermatomyositis'
+p292
+g3
+tp293
+sS'70'
+p294
+(S'right mucinous cystadenoma stroke in atrial fibrillation on coumadin stroke in medications on admission lopressor mg coumadin mg zantac mg trazodone mg percocet tablets hours colace mg allergies the patient has no known drug allergies'
+p295
+g7
+tp296
+sS'79'
+p297
+(S'past medical history abdominal abscess the patient had an abdominal abscess that grew pseudomonas aeruginosa which was drained and treated with antibiotics in prostate cancer this was diagnosed in the patient was treated with radiation therapy prostate cancer has now reoccurred with pelvic mass and possible bone metastasis being treated with lupron therapy by dr basal and squamous cell skin cancers coronary artery disease status post stent x last was eight years ago cardiologist is dr hypertension hypothyroidism bilateral hearing loss the patient wears hearing aids bilaterally he reports that his hearing loss is greater in the left ear than the right headaches diverticulitis orthostatic hypotension and micturition syncope dysphagia negative barium swallow in both liquids and solids esophagogastroduodenoscopy shows pulsatile extrinsic compression from aberrant subclavian artery and possible left sided aortic arch glaucoma at least from blind in left eye osteopenia collagenous colitis dx in hearing loss is marked using bilateral hearing aids at home possible prior transient ischemic attack patient presented to hospital in several years ago with neurologic symptoms he was told that he did not have stroke per son past surgical history status post drainage of abdominal abscess status post removal of basal cell and squamous cell skin cancers status post appendectomy appendix was ruptured at the time of this surgery in status post bilateral carpal tunnel repair lives at wife is son is hcp and power of attorney smoked pack year smoked ppd for years quit rare etoh father with coronary disease in s mother and brother with hypertension his sister has hypertension and cancer of unknown origin'
+p298
+g7
+tp299
+sS'78'
+p300
+(S'hypertension hepatic lipase diabetes mellitus dermatomyositis osteoarthritis anemia stopped taking acetylsalicylic acid because of this and received blood transfusion at nwh though no known evidence of active bleeding chronic lightheadedness with vertigo right carotid stenosis left stenosis seconds with full strength at biceps triceps grip lives with daughter non contributary'
+p301
+g7
+tp302
+s.

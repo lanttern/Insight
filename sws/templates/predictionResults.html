@@ -1,0 +1,75 @@
+<!doctype html>
+<html>
+  <head>
+     <!-- header including title, css style and script links-->
+        <title>Stroke Prediction System</title>
+        <link rel='stylesheet prefetch' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css'>
+        <link rel="stylesheet" type= "text/css" href="{{url_for('static', filename = 'css/drstyle.css')}}">
+        <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="https://www.amcharts.com/lib/3/plugins/export/export.css" type="text/css" media="all" />
+        <script src="https://www.amcharts.com/lib/3/themes/light.js"></script>
+        <script src="{{url_for('static', filename = 'js/amcharts.js')}}"></script>
+        <script src="https://www.amcharts.com/lib/3/serial.js"></script>
+        <script src="https://www.amcharts.com/lib/3/gauge.js"></script>
+        <script src="https://www.amcharts.com/lib/3/plugins/export/export.min.js"></script>        
+        <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+        <script src='http://jbatch.iomash.com/1/jbatch.min.js'></script>
+        <script src='https://code.jquery.com/jquery-1.11.2.min.js'></script>
+        <script src="{{url_for('static', filename = 'js/pr.js')}}"></script>
+  </head>
+
+  <body class = "fluid-container" background = "{{url_for('static', filename = 'images/header.jpg')}}">
+
+  <div class="row well text-center" >
+     <!-- prediction panel to show probability and warning message-->
+    <h3>The predicted risk of stroke</h3>
+    <script type="text/javascript">
+      chart({{results|tojson}});
+    </script>
+    <div id="chartdiv1"></div>
+    {% if results|float >= 50 %}
+      <div class = "text-center" style = "color: red;"><h3>Please check with your doctor</h3></div>
+    {% else %}
+      <div class = "text-center" style = "color: blue;"><h3>Please check your risk factors</h3></div>  
+    {% endif %}
+  </div>
+  <div class = "row well text-center">
+     <!-- risk factors analysis panel to show the risk factors showed in the customer's medical information-->
+    <h3>Risk factors for stroke based on your health info</h3>
+    <div class = "col-md-6 text-left"><h4>Risk factors</h4></div>
+    <div class = "col-md-6 text-left"><h4>Relevant to stroke (max: 100)</h4></div>
+    <table>
+        {% for value in factors %}
+        <div class = "row">
+        <tr>
+            <div class = "col-md-6 text-left" style = "color : red;"><h4>{{ value[0] }}</h4></div>
+            <div class = "col-md-6 text-left"> <h4>{{ '%.2f'%(value[1]/0.0477) }} </h4></div>
+        </tr>
+      </div>
+       {% endfor %}
+    </table>
+  </div>
+    <div class = "row well text-center">
+    <!-- interactive graph to show the general risk factors for stroke-->
+    <h3>General risk factors for stroke</h3>
+    <div id="chartdiv2"></div>
+    <script type="text/javascript">
+      chart2();
+    </script>
+  </div>
+  <div class = "row well text-center">
+     <!-- show additional resource about stroke-->
+    <h3>More information about stroke</h3>
+    <div class = "col-md-4 text-left"> <a href = "https://www.nhlbi.nih.gov/health/health-topics/topics/stroke/atrisk" target="_blank">
+                <h4>Who Is at Risk for a Stroke?</h4></a></div>
+    <div class = "col-md-4 text-left"> <a href = "http://www.strokeassociation.org/STROKEORG/AboutStroke/UnderstandingRisk/Understanding-Stroke-Risk_UCM_308539_SubHomePage.jsp" target="_blank">
+                <h4>Understanding Stroke Risk</h4></a></div>
+    <div class = "col-md-4 text-left"> <a href = "http://www.stroke.org/understand-stroke/preventing-stroke" target="_blank">
+                <h4>Preventing a Stroke</h4></a></div>
+  </div>
+  <div class = "row button"> 
+    <!-- button go to Home page--> 
+    <div class = "col-md-2"><button onclick = "location.href = '{{url_for('index')}}';" class = "btn btn-primary btn-lg glyphicon glyphicon-home"> Home</button><div>
+  </div>
+  </body>
+</html>

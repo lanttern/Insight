@@ -1,0 +1,76 @@
+<!doctype html>
+<html>
+  <head>
+    <!-- header including title, css style and script links-->
+    <title>Medical Information</title>
+        <link rel='stylesheet prefetch' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css'>
+        <link rel="stylesheet" type= "text/css" href="{{url_for('static', filename = 'css/dstyle.css')}}">
+        <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css">
+        <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+        <script src='http://jbatch.iomash.com/1/jbatch.min.js'></script>
+  </head>
+
+  <body class = "fluid-container">
+    <!-- set the record image and titles-->
+    <img id = "record" src = "{{url_for('static', filename = 'images/records.jpg')}}">
+    <h3 class = "text-center" id = "title">Stroke Warning System</h3>
+    <h3 class = "row text-center">Please enter your new medical information</h3>
+    <div class = "row">
+    <!-- set textarea to type in medical information-->
+    <form method = "POST" action = "/predictionResults" class = "text-center submit-field form-inline">
+      <div>
+        <!-- set optional medical information to choose-->
+        <select id="soflow" name = "options">
+          <option>Add medical info</option>
+          <option>atrial fibrillation</option>
+          <option>hypertension</option>
+          <option>high cholesterol</option>
+        </select>
+        <select id="soflow" name = "options">
+          <option>Add family info</option>
+          <option>mother had a stroke</option>
+          <option>family history of stroke</option>
+        </select>
+        <select id="soflow" name = "options">
+          <option>Add social info</option>
+          <option>quit tobacco</option>
+          <option>denies tobacco</option>
+          <option>social etoh abuse</option>
+        </select>
+      <div class = "row">
+      <textarea name="history_info" id = "text-field" cols="80" rows="8" placeholder = "Please select from top panel or enter your past medical, social and family history for at least 10 characters">{{info[0]}}</textarea>
+    </div>
+    <!-- JQuery code to display the selected medical information in the textarea-->
+      <script>
+        $('select[name="options"]').change(function(){
+        var val = $.trim($("textarea").val());
+        var text = $(this).find("option:selected").text();
+        if(text == "Add medical info"){
+              text = val;
+            }
+        else if (text == "Add family info"){
+              text = val;
+        }
+        else if (text == "Add social info"){
+              text = val;
+        }
+        else {
+          text = val  + " " + text;
+        }
+        $('#text-field').val(text);
+        });
+    </script>
+      </div>
+      <div>
+        <input type = "submit" value = "Submit" name = "record" class = "btn btn-success btn-lg">
+      </div>
+    </form>
+    </div>
+    <!-- display error message when the number of characters in textarea is less than 10-->
+     <div class = "row text-center"> <h3 id = "error_message">{{error}}</h3></div>
+    <!-- display a Go Back button-->
+    <div class = "row" >
+      <button onclick = "location.href = '{{url_for('index')}}';" class = "btn btn-warning btn-lg glyphicon glyphicon-backward" id = "myButton" style = "margin-bottom : 25px; margin-left : 25px;"> Go Back</button>
+    </div>
+  </body>
+</html>

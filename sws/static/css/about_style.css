@@ -1,0 +1,68 @@
+/*
+css style for about and sws page
+*/
+body{
+  padding: 70px 100px 70px 100px;
+  width: 100vw;
+  height: 100vh;
+  background-color: #5D6D7E;
+}
+.content{
+  color: white;
+  margin-top: 10px;
+  margin-bottom: 50px;
+}
+
+#chla{
+	width: 200px;
+	height: 100px;
+}
+
+#gatech{
+	width: 200px;
+	height: 50px;
+}
+#data{
+	width: 200px;
+	height: 80px;
+}
+#p1{
+	width: 300px;
+	height: 500px;
+}
+
+#p2{
+	width: 700px;
+	height: 300px;
+}
+
+#p3{
+	width: 700px;
+	height: 900px;
+}
+#button{
+  font-family: 'Roboto', sans-serif;
+}
+
+li{
+	font-size: 20px;
+}
+#text{
+	font-size: 20px;
+}
+#num{
+	color:#FCF610;
+}
+
+#link{
+	color: white;
+}
+
+#link:hover{
+	color: yellow;
+}
+
+center{
+	text-align:center;
+	display:block;
+}

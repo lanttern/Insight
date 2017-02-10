@@ -1,0 +1,8 @@
+(dp0
+S'Non-Stroke'
+p1
+I0
+sS'Stroke'
+p2
+I1
+s.

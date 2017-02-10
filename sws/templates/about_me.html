@@ -1,0 +1,56 @@
+<!doctype html>
+<html>
+  <head>
+    <!-- header including title, css style and script links-->
+        <title>About me</title>
+        <link rel='stylesheet prefetch' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css'>
+        <link rel="stylesheet" type= "text/css" href="{{url_for('static', filename = 'css/about_style.css')}}">
+        <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css">
+        <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+        <script src='http://jbatch.iomash.com/1/jbatch.min.js'></script>
+  </head>
+
+  <body class = "fluid-container">
+  <div class = "row text-center">
+      <!-- nav options including Home, SWS and About buttons-->
+      <div class = "col-md-4">
+        <button onclick = "location.href = '{{url_for('index')}}';" class = "btn btn-primary btn-lg glyphicon glyphicon-home"><span id = "button"> Home</span></button>
+    </div>
+    <div class = "col-md-4">
+        <form method = "POST" action = "/about_sws">
+          <button type = "input" class="btn btn-info btn-lg glyphicon glyphicon-eye-open"><span id = "button"> SWS</span></button>
+        </form>
+    </div>
+    <div class = "col-md-4">
+      <form method = "POST" action = "/about_me">
+        <button type = "input" class = "btn btn-success btn-lg glyphicon glyphicon-info-sign"><span id = "button"> About</span></button>
+      </form>
+    </div>
+  </div>
+  <div class = "content">
+    <!-- contents including 4 sections: Neuroscience and Autism; Computer Science at Georgia Tech Institute; Love data just as loving bacon; Enjoy travel, sunshine and beach-->
+    <div class = "row"><h3><u>Neuroscience and Autism</u></h3></div>
+      <div class = "row">
+        <img id = "chla" src="{{url_for('static', filename = 'images/chla.jpg')}}">
+        <p class = "col-md-9">I received my PhD degree in developmental neurobiology. I am a postdoctoral fellow working in neuroscience field at Children's Hospital Los Angeles. I utilized bioinformatics tools to analyze protein-protein interaction networks and gene expression patterns to understand the underlying mechanisms of autism spectrum disorders, which are prevalent neurodevelopmental disorders for kids. I am dedicated to help and improve life quality for autism kids.</p>
+      </div>
+    <div class = "row"><h3><u>Computer Science at Georgia Tech Institute</u></h3>
+        <img id = "gatech" src="{{url_for('static', filename = 'images/gatech.png')}}">
+        <p class = "col-md-9">I am currently pursing a master degree of computer science at Georgia Tech Institute with emphasis on machine learning. I am happying to learn new techniques and enjoying the process of learning.</p>
+    </div>
+    <div class = "row"><h3><u>Love data just as loving bacon</u></h3>
+        <img id = "data" src="{{url_for('static', filename = 'images/data.jpg')}}">
+        <p class = "col-md-9">I love data from real world, though it may be messy and disorganized. I am hungry to analyze data and provide insights using data, just like I am always hungry for bacon. I am especially appeal to the healthcare data, which are very rich and including invaluable information than could be used to improve people's health and life quality.</p>
+    </div>
+    <div class = "row"><h3><u>Enjoy travel, sunshine and beach</u></h3>
+      <p class = "col-md-9">Pictures say my words.....</p>
+      <center>
+          <img  id = "p2" src="{{url_for('static', filename = 'images/p2.jpg')}}">
+          <img  id = "p2" src="{{url_for('static', filename = 'images/p1.jpg')}}">
+          <img  id = "p3" src="{{url_for('static', filename = 'images/p3.jpg')}}">
+      </center>
+
+    </div>
+  </div>
+  </body>
+</html>

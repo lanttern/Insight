@@ -1,0 +1,49 @@
+/*
+css style for prediction page
+*/
+body{
+  padding: 50px 20px 20px 20px;
+  width: 100vw;
+  height: 100vh;
+  background-size: cover;
+}
+
+select#soflow {
+   -webkit-appearance: button;
+   -webkit-border-radius: 2px;
+   -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.1);
+   -webkit-padding-end: 20px;
+   -webkit-padding-start: 2px;
+   -webkit-user-select: none;
+   background-image: url(http://i62.tinypic.com/15xvbd5.png), -webkit-linear-gradient(#FAFAFA, #F4F4F4 40%, #E5E5E5);
+   background-position: 97% center;
+   background-repeat: no-repeat;
+   border: 1px solid #AAA;
+   color: #555;
+   font-size: inherit;
+   margin: 15px;
+   overflow: hidden;
+   padding: 5px 5px;
+   text-overflow: ellipsis;
+   white-space: nowrap;
+   width: 170px;
+}
+
+
+#record{
+  position: relative;
+  padding-left: 350px;
+  max-width: 70vw;
+  max-height: 70vh;
+}
+
+#record-logo{
+  position: relative;
+  padding-left: 250px;
+  max-width: 70vw;
+  max-height: 70vh;
+}
+
+#error_message, #title{
+	color: #BC10FC;
+}
