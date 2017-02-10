@@ -9,14 +9,19 @@ In this section, prediction models including LogisticRegression and Support Vect
 ## 3. [Build a stroke warning system](https://github.com/lanttern/Insight/tree/master/sws)
 #### Stroke Factors
 795,000 people in the US have a stroke every year (Leading cause of disabilities)
+
 134,000 deaths each year (No. 5 cause of death in the US)
+
 Projections show that by 2030, stroke prevalence will increase by more than 20% over 2012
+
 Total direct medical stroke-related costs are projected to triple by 2030, from $71.6 billion in 2012 to $184.1 billion
+
 80% of strokes can be prevented
+
 58% of Americans don’t know if they are at risk for stroke
 
 #### [Stroke Warning System](www.sws-anti-stroke.org)
-[Stroke Warning System] (www.sws-anti-stroke.org) is an accessible tool to predict risk of stroke. Health insurance company may use this tool to perform prescreen, save lives and decreased costs.
+Stroke Warning System is an accessible tool to predict risk of stroke. Health insurance company may use this tool to perform prescreen, save lives and decreased costs.
 
 #### Limitations
 The model used for Stroke Warning System is trained based on patients' past medical, social and family history information from intensive care unit. Therefore, the model is targeted to process the medical terms and medical languages written in English. The plain words may not yield a good prediction performance. The prediction is NOT a diagnosis, please always check with your doctor if you feel you may be at risk!
