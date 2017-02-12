@@ -26,7 +26,8 @@ select#soflow {
    padding: 5px 5px;
    text-overflow: ellipsis;
    white-space: nowrap;
-   width: 170px;
+   width: 200px;
+   font-size: 20px;
 }
 
 
@@ -46,4 +47,8 @@ select#soflow {
 
 #error_message, #title{
 	color: #BC10FC;
+}
+
+#text-field{
+  font-size: 20px;
 }
