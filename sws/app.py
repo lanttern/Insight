@@ -131,8 +131,8 @@ def prediction():
             message = 'Your user id is %s' %user_id
         # give an error message if this user is not in the test cases
         else:
-            message = 'Error: the user id is not found, \n' + \
-                      'please enter the correct id or enter as a new user'
+            message = 'Error: the customer id is not found, \n' + \
+                      'please enter the correct id or enter a new customer'
             return render_template('index.html', message = message)
     # add a new user/customer
     else:

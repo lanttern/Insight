@@ -25,6 +25,7 @@ if __name__ == '__main__':
     df = pd.read_csv('../DataSet/stroke_his_info_db.csv')
     # convert data into dictionary
     test_dict = test_cases(df)
+    print test_dict['4']
     # save data to local
     pl.dump(test_dict, open('../DataSet/test_dict.pkl', 'wb'))
     print 'Test cased written'

@@ -63,7 +63,7 @@ g7
 tp32
 sS'4'
 p33
-(S'none reported by patient works as cleaner life long tobacco use social etoh no drugs spanish speaking unknown'
+(S'none reported by patient works as cleaner life long tobacco use social etoh drugs spanish speaking unknown'
 p34
 g7
 tp35
